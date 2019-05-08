@@ -4,7 +4,7 @@ This is a simeple example using RxJava to fetch the ratio of Bitcoin and Etheriu
 
 ## Project highlights
 
-There is one Observable "ConsoleBaeObserver", it implements io.reactivex.observers.DefaultObserver.
+There is one Observable "ConsoleBaseObserver", it implements io.reactivex.observers.DefaultObserver.
 
 The most important part of it is method onNext:
 
